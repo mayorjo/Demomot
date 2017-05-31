@@ -1,0 +1,9 @@
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\bin\Debug\TableauOK.exe.config
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\bin\Debug\TableauOK.exe
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\bin\Debug\TableauOK.pdb
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\obj\Debug\TableauOK.csprojResolveAssemblyReference.cache
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\obj\Debug\TableauOK.Form1.resources
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\obj\Debug\TableauOK.Properties.Resources.resources
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\obj\Debug\TableauOK.csproj.GenerateResource.Cache
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\obj\Debug\TableauOK.exe
+F:\NouvelleOrdonance\403-Prog-Structuree\Projets\TableauOK\TableauOK\obj\Debug\TableauOK.pdb

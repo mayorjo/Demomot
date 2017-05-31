@@ -1,0 +1,12 @@
+F:\403-Programmation\Croix\Croix\bin\Debug\Croix.exe.config
+F:\403-Programmation\Croix\Croix\bin\Debug\Croix.exe
+F:\403-Programmation\Croix\Croix\bin\Debug\Croix.pdb
+F:\403-Programmation\Croix\Croix\obj\Debug\Croix.csprojResolveAssemblyReference.cache
+F:\403-Programmation\Croix\Croix\obj\Debug\Croix.exe
+F:\403-Programmation\Croix\Croix\obj\Debug\Croix.pdb
+H:\Demomot\MVC\evaluation\Croix\bin\Debug\Croix.exe.config
+H:\Demomot\MVC\evaluation\Croix\obj\Debug\Croix.exe
+H:\Demomot\MVC\evaluation\Croix\obj\Debug\Croix.pdb
+H:\Demomot\MVC\evaluation\Croix\bin\Debug\Croix.exe
+H:\Demomot\MVC\evaluation\Croix\bin\Debug\Croix.pdb
+H:\Demomot\MVC\evaluation\Croix\obj\Debug\Croix.csprojResolveAssemblyReference.cache
