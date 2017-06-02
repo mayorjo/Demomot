@@ -24,10 +24,10 @@ namespace Croix
         private const string underline = "-------------------------------------\n\n";
 
         //Constante de la question
-        private const string question = "Entrez une valeur comprise entre 4 et 9 (y.c.) : ";
+        private const string question = "Entrez une valeur comprise entre 4 et 9 (y.c.) :  ";
 
         //Constante en cas d'erreur
-        private const string error = "Invalide entrez à nouveaux :";
+        private const string error = "Invalide entrez à nouveaux : ";
 
         //Constante espace
         private const char space = ' ';
@@ -130,12 +130,16 @@ namespace Croix
         /// <summary>
         /// getter space
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Un espace</returns>
         public char getSpace()
         {
             return space;
         }
 
+        /// <summary>
+        /// getter IntCroix
+        /// </summary>
+        /// <returns>la valeur de IntCroix</returns>
         public int getIntCroix()
         {
             return intCroix;

@@ -10,3 +10,12 @@ H:\Demomot\MVC\evaluation - Corriger\Croix\obj\Debug\Croix.pdb
 H:\Demomot\MVC\evaluation - Corriger\Croix\bin\Debug\Croix.exe
 H:\Demomot\MVC\evaluation - Corriger\Croix\bin\Debug\Croix.pdb
 H:\Demomot\MVC\evaluation - Corriger\Croix\obj\Debug\Croix.csprojResolveAssemblyReference.cache
+H:\Demomot\MVC\evaluation\evaluation - Corriger\Croix\bin\Debug\Croix.exe.config
+H:\Demomot\MVC\evaluation\evaluation - Corriger\Croix\obj\Debug\Croix.exe
+H:\Demomot\MVC\evaluation\evaluation - Corriger\Croix\obj\Debug\Croix.pdb
+H:\Demomot\MVC\evaluation\evaluation - Corriger\Croix\bin\Debug\Croix.exe
+H:\Demomot\MVC\evaluation\evaluation - Corriger\Croix\bin\Debug\Croix.pdb
+H:\Demomot\MVC\evaluation\evaluation - Corriger\Croix\obj\Debug\Croix.csprojResolveAssemblyReference.cache
+\\setmseb2k80002\INF_Eleves$\CINA\2\mayorjo\Demomot\MVC\evaluation\evaluation - Corriger\Croix\bin\Debug\Croix.exe.config
+\\setmseb2k80002\INF_Eleves$\CINA\2\mayorjo\Demomot\MVC\evaluation\evaluation - Corriger\Croix\obj\Debug\Croix.exe
+\\setmseb2k80002\INF_Eleves$\CINA\2\mayorjo\Demomot\MVC\evaluation\evaluation - Corriger\Croix\obj\Debug\Croix.pdb

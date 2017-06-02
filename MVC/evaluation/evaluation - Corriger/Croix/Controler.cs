@@ -35,49 +35,38 @@ namespace Croix
                     modele.setIntCroix(Convert.ToInt16(Console.ReadLine()));
                 }
 
-                
+                /* Création de la croix */
 
+                //Boucle qui permet de faire les lignes 
+                for(int line = 1; line <= modele.getIntCroix(); line++)
+                {
+                    //Boucle qui permet d'afficher les caractères 
+                    for(int caracter = 1; caracter <= modele.getIntCroix(); caracter++)
+                    {
+                        //Affiche le chiffre si les conditions sont remplies
+                        if (line == caracter || caracter <= modele.getIntCroix() + 1)
+                        {
+                            vue.displaySomethingWrite(Convert.ToString(modele.getIntCroix()));
+                        }
+
+                        //Sinon affiche un espace 
+                        else
+                        {
+                            vue.displaySomethingWrite(Convert.ToString(modele.getSpace()));
+                        }
+                    }
+                    //Fait un retour à la ligne à la fin de la boucle 
+                    vue.displaySomethingWriteLine("");
+                }
+                
             }
 
+            //Affiche une information à l'utilisateur en cas de problème
             else
             {
                 Console.WriteLine("problème de connection");
             }
-            /*
-            //Déclaration des variables
-            int intCroix = '0';
-            int intespace = '0';
-            //Affichage du titre
-            Console.WriteLine("Affichage d'une croix et de sa valeur");
-            Console.WriteLine("-------------------------------------\n\n");
-            //Entrer de la valeur Croix
-            Console.Write("Entrez une valeur comprise entre 4 et 9 (y.c.) : ");
-            intCroix = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
-            //Vérification si c'est entre 4 et 9
-            while (intCroix < 4 || intCroix > 9)
-            {
-                Console.Write("Invalide entrez à nouveaux :");
 
-                intCroix = Convert.ToInt32(Console.ReadLine());
-            }
-
-            for (int ligne = 1; ligne <= intCroix; ++ligne)
-            {
-                for (int caractere = 1; caractere <= intCroix; ++caractere)
-                {
-                    if (ligne == caractere || caractere == intCroix - ligne + 1)
-                    {
-                        Console.Write(intCroix);
-                    }
-                    else
-                    {
-                        Console.Write(" ");
-                    }
-                }
-                Console.WriteLine();
-            }
-            */
             Console.ReadLine();
             }
 

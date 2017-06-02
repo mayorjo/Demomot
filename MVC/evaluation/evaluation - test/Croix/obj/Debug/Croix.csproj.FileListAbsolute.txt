@@ -10,3 +10,6 @@ H:\Demomot\MVC\evaluation\Croix\obj\Debug\Croix.pdb
 H:\Demomot\MVC\evaluation\Croix\bin\Debug\Croix.exe
 H:\Demomot\MVC\evaluation\Croix\bin\Debug\Croix.pdb
 H:\Demomot\MVC\evaluation\Croix\obj\Debug\Croix.csprojResolveAssemblyReference.cache
+H:\Demomot\MVC\evaluation\evaluation - test\Croix\bin\Debug\Croix.exe.config
+H:\Demomot\MVC\evaluation\evaluation - test\Croix\obj\Debug\Croix.exe
+H:\Demomot\MVC\evaluation\evaluation - test\Croix\obj\Debug\Croix.pdb
