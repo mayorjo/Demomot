@@ -15,14 +15,7 @@ namespace StateMachineGUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            Controler controler = new Controler();
-            Modele modele = new Modele(controler);
-            Vue vue = new Vue(controler);
-
-            Application.Run(vue);
-
-
+            Application.Run(new View());
         }
     }
 }

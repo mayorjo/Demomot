@@ -1,6 +1,6 @@
 ﻿namespace StateMachineGUI
 {
-    partial class Vue
+    partial class View
     {
         /// <summary>
         /// Variable nécessaire au concepteur.

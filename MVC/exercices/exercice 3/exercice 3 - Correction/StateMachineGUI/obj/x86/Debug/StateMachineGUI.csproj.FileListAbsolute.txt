@@ -15,19 +15,10 @@ G:\NouvelleOrdonnance\404-Prog-BaseeObjets\StateMachineGUI\StateMachineGUI\obj\x
 G:\NouvelleOrdonnance\404-Prog-BaseeObjets\StateMachineGUI\StateMachineGUI\obj\x86\Debug\StateMachineGUI.StateMachine.resources
 G:\NouvelleOrdonnance\404-Prog-BaseeObjets\StateMachineGUI\StateMachineGUI\obj\x86\Debug\StateMachineGUI.Properties.Resources.resources
 G:\NouvelleOrdonnance\404-Prog-BaseeObjets\StateMachineGUI\StateMachineGUI\obj\x86\Debug\StateMachineGUI.csproj.GenerateResource.Cache
-H:\Demomot\MVC\exercices\exercice 3\exercice 3\StateMachineGUI\obj\x86\Debug\StateMachineGUI.exe
-H:\Demomot\MVC\exercices\exercice 3\exercice 3\StateMachineGUI\obj\x86\Debug\StateMachineGUI.csprojResolveAssemblyReference.cache
-H:\Demomot\MVC\exercices\exercice 3\exercice 3\StateMachineGUI\obj\x86\Debug\StateMachineGUI.Properties.Resources.resources
-H:\Demomot\MVC\exercices\exercice 3\exercice 3\StateMachineGUI\obj\x86\Debug\StateMachineGUI.csproj.GenerateResource.Cache
-H:\Demomot\MVC\exercices\exercice 3\exercice 3\StateMachineGUI\bin\Debug\StateMachineGUI.exe
-H:\Demomot\MVC\exercices\exercice 3\exercice 3\StateMachineGUI\bin\Debug\StateMachineGUI.pdb
-H:\Demomot\MVC\exercices\exercice 3\exercice 3\StateMachineGUI\obj\x86\Debug\StateMachineGUI.pdb
-H:\Demomot\MVC\exercices\exercice 3\exercice 3\StateMachineGUI\obj\x86\Debug\StateMachineGUI.Vue.resources
 H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Corriger\StateMachineGUI\obj\x86\Debug\StateMachineGUI.exe
-H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Corriger\StateMachineGUI\obj\x86\Debug\StateMachineGUI.pdb
-H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Corriger\StateMachineGUI\bin\Debug\StateMachineGUI.exe
-H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Corriger\StateMachineGUI\bin\Debug\StateMachineGUI.pdb
-H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Corriger\StateMachineGUI\obj\x86\Debug\StateMachineGUI.csprojResolveAssemblyReference.cache
-H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Corriger\StateMachineGUI\obj\x86\Debug\StateMachineGUI.Properties.Resources.resources
-H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Corriger\StateMachineGUI\obj\x86\Debug\StateMachineGUI.csproj.GenerateResource.Cache
-H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Corriger\StateMachineGUI\obj\x86\Debug\StateMachineGUI.Vue.resources
+H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Correction\StateMachineGUI\obj\x86\Debug\StateMachineGUI.exe
+H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Correction\StateMachineGUI\obj\x86\Debug\StateMachineGUI.csprojResolveAssemblyReference.cache
+H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Correction\StateMachineGUI\obj\x86\Debug\StateMachineGUI.StateMachine.resources
+H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Correction\StateMachineGUI\obj\x86\Debug\StateMachineGUI.Properties.Resources.resources
+H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Correction\StateMachineGUI\obj\x86\Debug\StateMachineGUI.csproj.GenerateResource.Cache
+H:\Demomot\MVC\exercices\exercice 3\exercice 3 - Correction\StateMachineGUI\obj\x86\Debug\StateMachineGUI.View.resources
