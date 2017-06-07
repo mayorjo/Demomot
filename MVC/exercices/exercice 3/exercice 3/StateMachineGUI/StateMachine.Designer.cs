@@ -46,7 +46,6 @@
             this.pbRemaining.Name = "pbRemaining";
             this.pbRemaining.Size = new System.Drawing.Size(315, 28);
             this.pbRemaining.TabIndex = 0;
-            this.pbRemaining.Click += new System.EventHandler(this.pbRemaining_Click);
             // 
             // label1
             // 

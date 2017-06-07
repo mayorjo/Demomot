@@ -1,0 +1,18 @@
+C:\Users\mayorjo\AppData\Local\Temporary Projects\X-403-mayorjo-Listedeclasse\bin\Debug\X-403-mayorjo-Listedeclasse.exe
+C:\Users\mayorjo\AppData\Local\Temporary Projects\X-403-mayorjo-Listedeclasse\bin\Debug\X-403-mayorjo-Listedeclasse.pdb
+C:\Users\mayorjo\AppData\Local\Temporary Projects\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.exe
+C:\Users\mayorjo\AppData\Local\Temporary Projects\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.pdb
+H:\Module exercice\403-Prog\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.exe
+H:\Module exercice\403-Prog\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.pdb
+F:\Archive\2015-16\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.exe
+F:\Archive\2015-16\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.pdb
+F:\Archive\2015-16\X-403-mayorjo-Listedeclasse\bin\Debug\X-403-mayorjo-Listedeclasse.exe
+F:\Archive\2015-16\X-403-mayorjo-Listedeclasse\bin\Debug\X-403-mayorjo-Listedeclasse.pdb
+F:\Archive\2015-16\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.csprojResolveAssemblyReference.cache
+H:\Demomot\MVC\C#\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.exe
+H:\Demomot\MVC\C#\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.pdb
+H:\Demomot\MVC\C#\X-403-mayorjo-Listedeclasse\bin\Debug\X-403-mayorjo-Listedeclasse.exe
+H:\Demomot\MVC\C#\X-403-mayorjo-Listedeclasse\bin\Debug\X-403-mayorjo-Listedeclasse.pdb
+H:\Demomot\MVC\C#\X-403-mayorjo-Listedeclasse\obj\x86\Debug\X-403-mayorjo-Listedeclasse.csprojResolveAssemblyReference.cache
+H:\Demomot\MVC\exercices\exercice 2\exercice 2\obj\x86\Debug\X-403-mayorjo-Listedeclasse.exe
+H:\Demomot\MVC\exercices\exercice 2\exercice 2\obj\x86\Debug\X-403-mayorjo-Listedeclasse.pdb

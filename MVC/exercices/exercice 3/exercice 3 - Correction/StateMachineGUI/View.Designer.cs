@@ -36,7 +36,7 @@
             this.btnMoins = new System.Windows.Forms.Button();
             this.timProgress = new System.Windows.Forms.Timer(this.components);
             this.timState = new System.Windows.Forms.Timer(this.components);
-            this.progressValue = new System.Windows.Forms.Label();
+            this.LbprogressValue = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.state)).BeginInit();
             this.SuspendLayout();
             // 
@@ -95,27 +95,27 @@
             this.timState.Enabled = true;
             this.timState.Tick += new System.EventHandler(this.timState_Tick);
             // 
-            // progressValue
+            // LbprogressValue
             // 
-            this.progressValue.AutoSize = true;
-            this.progressValue.Location = new System.Drawing.Point(166, 61);
-            this.progressValue.Name = "progressValue";
-            this.progressValue.Size = new System.Drawing.Size(21, 13);
-            this.progressValue.TabIndex = 5;
-            this.progressValue.Text = "0%";
+            this.LbprogressValue.AutoSize = true;
+            this.LbprogressValue.Location = new System.Drawing.Point(166, 61);
+            this.LbprogressValue.Name = "LbprogressValue";
+            this.LbprogressValue.Size = new System.Drawing.Size(21, 13);
+            this.LbprogressValue.TabIndex = 5;
+            this.LbprogressValue.Text = "0%";
             // 
-            // StateMachine
+            // View
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(376, 270);
-            this.Controls.Add(this.progressValue);
+            this.Controls.Add(this.LbprogressValue);
             this.Controls.Add(this.btnMoins);
             this.Controls.Add(this.btnPlus);
             this.Controls.Add(this.state);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pbRemaining);
-            this.Name = "StateMachine";
+            this.Name = "View";
             this.Text = "StateMachine";
             ((System.ComponentModel.ISupportInitialize)(this.state)).EndInit();
             this.ResumeLayout(false);
@@ -132,7 +132,7 @@
         private System.Windows.Forms.Button btnMoins;
         private System.Windows.Forms.Timer timProgress;
         private System.Windows.Forms.Timer timState;
-        private System.Windows.Forms.Label progressValue;
+        private System.Windows.Forms.Label LbprogressValue;
     }
 }
 
