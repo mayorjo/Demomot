@@ -117,7 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="sentence" xml:space="preserve">
-    <value>Example in english </value>
+  <data name="btsubmit" xml:space="preserve">
+    <value>soumettre</value>
+  </data>
+  <data name="cbSex0" xml:space="preserve">
+    <value>Homme</value>
+  </data>
+  <data name="cbSex1" xml:space="preserve">
+    <value>Femme</value>
+  </data>
+  <data name="cbSex2" xml:space="preserve">
+    <value>Autre</value>
+  </data>
+  <data name="lbBirthday" xml:space="preserve">
+    <value>Date de naissance</value>
+  </data>
+  <data name="lbFirstname" xml:space="preserve">
+    <value>Prénom</value>
+  </data>
+  <data name="lbName" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="lbProfession" xml:space="preserve">
+    <value>Profession</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>Formulaire d'inscription</value>
   </data>
 </root>

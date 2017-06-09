@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("exercie 1")]
+[assembly: AssemblyTitle("Exercice2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ETML")]
-[assembly: AssemblyProduct("exercie 1")]
+[assembly: AssemblyProduct("Exercice2")]
 [assembly: AssemblyCopyright("Copyright © ETML 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("ea8a2a6b-755f-4ce5-bdb0-84d79b50aa50")]
+[assembly: Guid("6c580ffe-9399-476d-b637-20515ed4d01a")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
