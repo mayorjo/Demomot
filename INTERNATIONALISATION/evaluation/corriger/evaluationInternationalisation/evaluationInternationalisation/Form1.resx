@@ -117,40 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btsubmit" xml:space="preserve">
-    <value>submit</value>
-  </data>
-  <data name="cbGender0" xml:space="preserve">
-    <value>Men</value>
-  </data>
-  <data name="cbGender1" xml:space="preserve">
-    <value>Women</value>
-  </data>
-  <data name="cbGender2" xml:space="preserve">
-    <value>Other</value>
-  </data>
-  <data name="lbBirthday" xml:space="preserve">
-    <value>Birthday</value>
-  </data>
-  <data name="lbFirstname" xml:space="preserve">
-    <value>Firstname</value>
-  </data>
-  <data name="lbName" xml:space="preserve">
-    <value>Name</value>
-  </data>
-  <data name="lbProfession" xml:space="preserve">
-    <value>Profession</value>
-  </data>
-  <data name="stSentence1" xml:space="preserve">
-    <value>You are called</value>
-  </data>
-  <data name="stSentence2" xml:space="preserve">
-    <value>You were born on</value>
-  </data>
-  <data name="stSentence3" xml:space="preserve">
-    <value>You are</value>
-  </data>
-  <data name="title" xml:space="preserve">
-    <value>Registration Form</value>
-  </data>
 </root>

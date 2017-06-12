@@ -36,7 +36,7 @@
             this.tbBirthday = new System.Windows.Forms.TextBox();
             this.lbBirthday = new System.Windows.Forms.Label();
             this.lbSex = new System.Windows.Forms.Label();
-            this.cbSex = new System.Windows.Forms.ComboBox();
+            this.cbGender = new System.Windows.Forms.ComboBox();
             this.tbProfession = new System.Windows.Forms.TextBox();
             this.lbprofession = new System.Windows.Forms.Label();
             this.btReset = new System.Windows.Forms.Button();
@@ -112,17 +112,19 @@
             this.lbSex.TabIndex = 7;
             this.lbSex.Text = "Sexe";
             // 
-            // cbSex
+            // cbGender
             // 
-            this.cbSex.FormattingEnabled = true;
-            this.cbSex.Items.AddRange(new object[] {
+            this.cbGender.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbGender.FormattingEnabled = true;
+            this.cbGender.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.cbGender.Items.AddRange(new object[] {
             "Homme",
             "Femme",
             "Autre"});
-            this.cbSex.Location = new System.Drawing.Point(149, 143);
-            this.cbSex.Name = "cbSex";
-            this.cbSex.Size = new System.Drawing.Size(121, 21);
-            this.cbSex.TabIndex = 8;
+            this.cbGender.Location = new System.Drawing.Point(149, 143);
+            this.cbGender.Name = "cbGender";
+            this.cbGender.Size = new System.Drawing.Size(121, 21);
+            this.cbGender.TabIndex = 8;
             // 
             // tbProfession
             // 
@@ -157,6 +159,7 @@
             this.btSubmit.TabIndex = 14;
             this.btSubmit.Text = "Soumettre";
             this.btSubmit.UseVisualStyleBackColor = true;
+            this.btSubmit.Click += new System.EventHandler(this.btSubmit_Click);
             // 
             // btFr
             // 
@@ -200,7 +203,7 @@
             this.Controls.Add(this.btReset);
             this.Controls.Add(this.tbProfession);
             this.Controls.Add(this.lbprofession);
-            this.Controls.Add(this.cbSex);
+            this.Controls.Add(this.cbGender);
             this.Controls.Add(this.lbSex);
             this.Controls.Add(this.tbBirthday);
             this.Controls.Add(this.lbBirthday);
@@ -226,7 +229,7 @@
         private System.Windows.Forms.TextBox tbBirthday;
         private System.Windows.Forms.Label lbBirthday;
         private System.Windows.Forms.Label lbSex;
-        private System.Windows.Forms.ComboBox cbSex;
+        private System.Windows.Forms.ComboBox cbGender;
         private System.Windows.Forms.TextBox tbProfession;
         private System.Windows.Forms.Label lbprofession;
         private System.Windows.Forms.Button btReset;

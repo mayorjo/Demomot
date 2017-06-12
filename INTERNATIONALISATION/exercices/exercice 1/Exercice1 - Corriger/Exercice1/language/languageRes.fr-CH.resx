@@ -120,14 +120,14 @@
   <data name="btsubmit" xml:space="preserve">
     <value>soumettre</value>
   </data>
-  <data name="cbSex0" xml:space="preserve">
-    <value>Homme</value>
+  <data name="cbGender0" xml:space="preserve">
+    <value>un Homme</value>
   </data>
-  <data name="cbSex1" xml:space="preserve">
-    <value>Femme</value>
+  <data name="cbGender1" xml:space="preserve">
+    <value>une Femme</value>
   </data>
-  <data name="cbSex2" xml:space="preserve">
-    <value>Autre</value>
+  <data name="cbGender2" xml:space="preserve">
+    <value>Autre chose </value>
   </data>
   <data name="lbBirthday" xml:space="preserve">
     <value>Date de naissance</value>
@@ -140,6 +140,15 @@
   </data>
   <data name="lbProfession" xml:space="preserve">
     <value>Profession</value>
+  </data>
+  <data name="stSentence1" xml:space="preserve">
+    <value>Vous vous appelez </value>
+  </data>
+  <data name="stSentence2" xml:space="preserve">
+    <value>Vous êtes né(e) le </value>
+  </data>
+  <data name="stSentence3" xml:space="preserve">
+    <value>Vous êtes</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Formulaire d'inscription</value>

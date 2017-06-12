@@ -120,13 +120,13 @@
   <data name="btsubmit" xml:space="preserve">
     <value>einreichen</value>
   </data>
-  <data name="cbSex0" xml:space="preserve">
+  <data name="cbGender0" xml:space="preserve">
     <value>Mann</value>
   </data>
-  <data name="cbSex1" xml:space="preserve">
+  <data name="cbGender1" xml:space="preserve">
     <value>Frau</value>
   </data>
-  <data name="cbSex2" xml:space="preserve">
+  <data name="cbGender2" xml:space="preserve">
     <value>andere</value>
   </data>
   <data name="lbBirthday" xml:space="preserve">
@@ -140,6 +140,15 @@
   </data>
   <data name="lbProfession" xml:space="preserve">
     <value>Beruf</value>
+  </data>
+  <data name="stSentence1" xml:space="preserve">
+    <value>Ihr Name ist</value>
+  </data>
+  <data name="stSentence2" xml:space="preserve">
+    <value>sie haben ihren geburtstag am</value>
+  </data>
+  <data name="stSentence3" xml:space="preserve">
+    <value>Sie sind</value>
   </data>
   <data name="title" xml:space="preserve">
     <value>Meldeschein</value>

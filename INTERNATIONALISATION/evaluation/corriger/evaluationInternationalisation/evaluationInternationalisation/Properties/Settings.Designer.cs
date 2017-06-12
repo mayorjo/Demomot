@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Exercice2.Properties
+namespace evaluationInternationalisation.Properties
 {
 
 

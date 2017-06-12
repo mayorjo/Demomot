@@ -117,40 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btsubmit" xml:space="preserve">
-    <value>submit</value>
+  <data name="butReset" xml:space="preserve">
+    <value>Reset</value>
   </data>
-  <data name="cbGender0" xml:space="preserve">
-    <value>Men</value>
+  <data name="butSubmit" xml:space="preserve">
+    <value>Submit</value>
   </data>
-  <data name="cbGender1" xml:space="preserve">
-    <value>Women</value>
+  <data name="emailContent1" xml:space="preserve">
+    <value>Hello</value>
   </data>
-  <data name="cbGender2" xml:space="preserve">
-    <value>Other</value>
+  <data name="emailContent2" xml:space="preserve">
+    <value>This is a confirmation message for your registration on our site. If you have never registered on our site, please ignore this message</value>
   </data>
-  <data name="lbBirthday" xml:space="preserve">
-    <value>Birthday</value>
+  <data name="emailContent3" xml:space="preserve">
+    <value>Your public information:</value>
   </data>
-  <data name="lbFirstname" xml:space="preserve">
+  <data name="grpbox1" xml:space="preserve">
+    <value>Personal information</value>
+  </data>
+  <data name="grpbox2" xml:space="preserve">
+    <value>Public information</value>
+  </data>
+  <data name="grpbox3" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="msgMail" xml:space="preserve">
+    <value>An email was sent to the following address:</value>
+  </data>
+  <data name="strAddress" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="strCity" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="strConfirm" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="strCountry" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="strFirstname" xml:space="preserve">
     <value>Firstname</value>
   </data>
-  <data name="lbName" xml:space="preserve">
+  <data name="strMail" xml:space="preserve">
+    <value>Email address</value>
+  </data>
+  <data name="strName" xml:space="preserve">
     <value>Name</value>
   </data>
-  <data name="lbProfession" xml:space="preserve">
-    <value>Profession</value>
+  <data name="strNickname" xml:space="preserve">
+    <value>Nickname</value>
   </data>
-  <data name="stSentence1" xml:space="preserve">
-    <value>You are called</value>
+  <data name="strPassword" xml:space="preserve">
+    <value>Password</value>
   </data>
-  <data name="stSentence2" xml:space="preserve">
-    <value>You were born on</value>
-  </data>
-  <data name="stSentence3" xml:space="preserve">
-    <value>You are</value>
-  </data>
-  <data name="title" xml:space="preserve">
+  <data name="strTitle" xml:space="preserve">
     <value>Registration Form</value>
+  </data>
+  <data name="strZip" xml:space="preserve">
+    <value>Zip</value>
   </data>
 </root>

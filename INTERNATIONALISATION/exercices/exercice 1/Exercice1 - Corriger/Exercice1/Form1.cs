@@ -19,6 +19,9 @@ namespace Exercice1
             InitializeComponent();
         }
 
+        string CultureInfoValue = "";
+
+
         //Bouton "Français" cliqué
         private void btFr_Click(object sender, EventArgs e)
         {
@@ -42,15 +45,18 @@ namespace Exercice1
             lbBirthday.Text = rmObject.GetString("lbBirthday", ciObject);
 
             //Modification de la combobox pour les sexes
-            string[] sex = new string[3] { rmObject.GetString("cbSex0", ciObject), rmObject.GetString("cbSex1", ciObject), rmObject.GetString("cbSex2", ciObject) };
-            cbSex.Items.Clear();
-            cbSex.Items.AddRange(sex);
+            string[] gender = new string[3] { rmObject.GetString("cbGender0", ciObject), rmObject.GetString("cbGender1", ciObject), rmObject.GetString("cbGender2", ciObject) };
+            cbGender.Items.Clear();
+            cbGender.Items.AddRange(gender);
 
             //Modification du label profession
             lbprofession.Text = rmObject.GetString("lbProfession", ciObject);
 
             //Modification du bouton soumettre
             btSubmit.Text = rmObject.GetString("btsubmit", ciObject);
+
+            //Modification de la valeur suivant la langue
+            CultureInfoValue = "fr-CH";
         }
 
         //Bouton "English" cliqué
@@ -76,15 +82,18 @@ namespace Exercice1
             lbBirthday.Text = rmObject.GetString("lbBirthday", ciObject);
 
             //Modification de la combobox pour les sexes
-            string[] sex = new string[3] { rmObject.GetString("cbSex0", ciObject), rmObject.GetString("cbSex1", ciObject), rmObject.GetString("cbSex2", ciObject) };
-            cbSex.Items.Clear();
-            cbSex.Items.AddRange(sex);
+            string[] gender = new string[3] { rmObject.GetString("cbGender0", ciObject), rmObject.GetString("cbGender1", ciObject), rmObject.GetString("cbGender2", ciObject) };
+            cbGender.Items.Clear();
+            cbGender.Items.AddRange(gender);
 
             //Modification du label profession
             lbprofession.Text = rmObject.GetString("lbProfession", ciObject);
 
             //Modification du bouton soumettre
             btSubmit.Text = rmObject.GetString("btsubmit", ciObject);
+
+            //Modification de la valeur suivant la langue
+            CultureInfoValue = "en-US";
         }
 
         //Bouton "Deutsch" cliqué
@@ -110,15 +119,29 @@ namespace Exercice1
             lbBirthday.Text = rmObject.GetString("lbBirthday", ciObject);
 
             //Modification de la combobox pour les sexes
-            string[] sex = new string[3] { rmObject.GetString("cbSex0", ciObject), rmObject.GetString("cbSex1", ciObject), rmObject.GetString("cbSex2", ciObject) };
-            cbSex.Items.Clear();
-            cbSex.Items.AddRange(sex);
+            string[] gender = new string[3] { rmObject.GetString("cbGender0", ciObject), rmObject.GetString("cbGender1", ciObject), rmObject.GetString("cbGender2", ciObject) };
+            cbGender.Items.Clear();
+            cbGender.Items.AddRange(gender);
 
             //Modification du label profession
             lbprofession.Text = rmObject.GetString("lbProfession", ciObject);
 
             //Modification du bouton soumettre
             btSubmit.Text = rmObject.GetString("btsubmit", ciObject);
+
+            //Modification de la valeur suivant la langue
+            CultureInfoValue = "de-DE";
+        }
+
+        private void btSubmit_Click(object sender, EventArgs e)
+        {
+            //Création des objets 
+            CultureInfo ciObject = new CultureInfo(CultureInfoValue);
+            Assembly asObject = Assembly.Load("Exercice1");
+            ResourceManager rmObject = new ResourceManager("Exercice1.language.languageRes", asObject);
+
+            //Affiche un message à l'utilisateur
+            MessageBox.Show(rmObject.GetString("stSentence1", ciObject) + tbFirstname.Text + " " + tbName.Text + "." + rmObject.GetString("stSentence2", ciObject) + " " + tbBirthday.Text + "." + rmObject.GetString("stSentence3", ciObject) + " " + cbGender.Text + "." + rmObject.GetString("stSentence3", ciObject) + " " + tbProfession.Text);
         }
     }
 }
