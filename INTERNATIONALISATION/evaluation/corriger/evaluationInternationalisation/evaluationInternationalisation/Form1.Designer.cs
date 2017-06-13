@@ -67,7 +67,7 @@
             this.btReset.Name = "btReset";
             this.btReset.Size = new System.Drawing.Size(75, 23);
             this.btReset.TabIndex = 0;
-            this.btReset.Text = "Reset";
+            this.btReset.Text = "réinitialiser";
             this.btReset.UseVisualStyleBackColor = true;
             this.btReset.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -77,7 +77,7 @@
             this.btSubmit.Name = "btSubmit";
             this.btSubmit.Size = new System.Drawing.Size(75, 23);
             this.btSubmit.TabIndex = 1;
-            this.btSubmit.Text = "Submit";
+            this.btSubmit.Text = "Soumettre";
             this.btSubmit.UseVisualStyleBackColor = true;
             this.btSubmit.Click += new System.EventHandler(this.btSubmit_Click);
             // 
