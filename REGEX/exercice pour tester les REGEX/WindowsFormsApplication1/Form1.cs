@@ -12,13 +12,16 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
-        //Variable
-        Regex regexTest = new Regex("cheval");       
+              
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //Vérification si la valeur match
-            bool regexMatch = regexTest.IsMatch(" ");
+
+            //Regex
+            Regex regexTest = new Regex(textBox1.Text);
+
+            //Vérification si la valeur match avec la valeur 
+            bool regexMatch = regexTest.IsMatch(textBox2.Text);
 
             if(regexMatch == true)
             {
